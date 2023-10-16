@@ -1,1 +1,38 @@
-
+body {
+    background-color: powderblue;
+  }
+  td {
+      border: 8px solid;
+      background-color: blueviolet;
+      font-size: 20px;
+    }
+    
+  th {
+      border: 8px solid;
+      background-color: burlywood;
+      font-size: 30px;
+    }
+  
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20%;
+    object-fit: cover;
+  }
+  
+  h1{
+    float: none;
+    background: coral;
+    position:relative;
+    left: 5px;
+    border: 8px solid;
+    text-align: center;
+  }
+  
+  .planet{
+    background-color: green;
+    color: springgreen;
+    border: 1px forestgreen;
+    margin: 12px;
+    padding: 18px;
+  }
